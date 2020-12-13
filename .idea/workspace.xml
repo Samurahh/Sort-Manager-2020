@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="044bdadc-b351-49a6-aaec-65c9a455e310" name="Default Changelist" comment="Code refactoring." />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lVhU8SZBMlioYWnOH1lTsbK3Ek" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/spartaglobal/samurah" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.spartaglobal.samurah" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Samurah\Documents\GitHub\Sort Manager 2020\src\main\java\com\spartaglobal\samurah" />
+      <recent name="C:\Users\Samurah\Documents\GitHub\Sort Manager 2020\src\main\java\com\spartaglobal\samurah\sorters" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Samurah\Documents\GitHub\Sort Manager 2020\src\main\resources" />
+      <recent name="C:\Users\Samurah\Documents\GitHub\Sort Manager 2020\src\main\java\com\spartaglobal\samurah" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.spartaglobal.samurah.swap" />
+      <recent name="com.spartaglobal.samurah.exceptions" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.spartaglobal.samurah.App" />
+      <module name="SortManager2020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spartaglobal.samurah.userinterface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/Samurah/Documents/GitHub/Sort Manager 2020" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="AppTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SortManager2020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spartaglobal.samurah.userinterface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.spartaglobal.samurah" />
+      <option name="MAIN_CLASS_NAME" value="com.spartaglobal.samurah.AppTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTest.checkIfSorted" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SortManager2020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spartaglobal.samurah.userinterface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.spartaglobal.samurah" />
+      <option name="MAIN_CLASS_NAME" value="com.spartaglobal.samurah.AppTest" />
+      <option name="METHOD_NAME" value="checkIfSorted" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTest.testSorterFactory" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SortManager2020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spartaglobal.samurah.userinterface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.spartaglobal.samurah" />
+      <option name="MAIN_CLASS_NAME" value="com.spartaglobal.samurah.AppTest" />
+      <option name="METHOD_NAME" value="testSorterFactory" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+        <item itemvalue="JUnit.AppTest" />
+        <item itemvalue="Gradle.C:/Users/Samurah/Documents/GitHub/Sort Manager 2020" />
+        <item itemvalue="JUnit.AppTest.testSorterFactory" />
+        <item itemvalue="JUnit.AppTest.checkIfSorted" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="044bdadc-b351-49a6-aaec-65c9a455e310" name="Default Changelist" comment="" />
+      <created>1607688179979</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607688179979</updated>
+    </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <created>1607885590247</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607885590247</updated>
+    </task>
+    <task id="LOCAL-00002" summary="First commit">
+      <created>1607885871391</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607885871391</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Code refactoring.">
+      <created>1607888096805</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1607888096805</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit" />
+    <MESSAGE value="Code refactoring." />
+    <option name="LAST_COMMIT_MESSAGE" value="Code refactoring." />
+  </component>
+</project>
