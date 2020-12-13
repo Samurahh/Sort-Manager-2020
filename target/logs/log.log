@@ -1,0 +1,976 @@
+2020-12-11 17:10:35,498 TRACE c.s.s.CommandLineUI [main] CommandLine UI running
+2020-12-11 17:10:35,501 TRACE c.s.s.CommandLineUI [main] Display header
+2020-12-11 17:10:35,502 TRACE c.s.s.CommandLineUI [main] Show options
+2020-12-11 17:10:35,502 TRACE c.s.s.CommandLineUI [main] Asking for option (RANGE 1-8).
+2020-12-11 17:10:35,503 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 18:09:38,469 TRACE c.s.s.CommandLineUI [main] CommandLine UI running
+2020-12-11 18:09:38,471 TRACE c.s.s.CommandLineUI [main] Display header
+2020-12-11 18:09:38,472 TRACE c.s.s.CommandLineUI [main] Show options
+2020-12-11 18:09:38,472 TRACE c.s.s.CommandLineUI [main] Asking for option (RANGE 1-8).
+2020-12-11 18:09:38,472 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 18:09:41,380 DEBUG c.s.s.CommandLineUI [main] User selected option 1
+2020-12-11 18:09:41,388 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 18:09:55,038 TRACE c.s.s.CommandLineUI [main] CommandLine UI running
+2020-12-11 18:09:55,041 TRACE c.s.s.CommandLineUI [main] Display header
+2020-12-11 18:09:55,042 TRACE c.s.s.CommandLineUI [main] Show options
+2020-12-11 18:09:55,042 TRACE c.s.s.CommandLineUI [main] Asking for option (RANGE 1-8).
+2020-12-11 18:09:55,042 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 18:10:11,213 DEBUG c.s.s.CommandLineUI [main] User selected option 2
+2020-12-11 18:10:11,221 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 18:10:40,467 TRACE c.s.s.CommandLineUI [main] CommandLine UI running
+2020-12-11 18:10:40,470 TRACE c.s.s.CommandLineUI [main] Display header
+2020-12-11 18:10:40,470 TRACE c.s.s.CommandLineUI [main] Show options
+2020-12-11 18:10:40,471 TRACE c.s.s.CommandLineUI [main] Asking for option (RANGE 1-8).
+2020-12-11 18:10:40,471 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 18:10:41,725 DEBUG c.s.s.CommandLineUI [main] User selected option 2
+2020-12-11 18:10:41,733 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 18:17:27,321 TRACE c.s.s.CommandLineUI [main] CommandLine UI running
+2020-12-11 18:17:27,324 TRACE c.s.s.CommandLineUI [main] Display header
+2020-12-11 18:17:27,324 TRACE c.s.s.CommandLineUI [main] Show options
+2020-12-11 18:17:27,325 TRACE c.s.s.CommandLineUI [main] Asking for option (RANGE 1-8).
+2020-12-11 18:17:27,325 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 18:17:35,709 WARN c.s.s.CommandLineUI [main] Invalid numerical input! Range exceeded (1-8) - input = 10
+2020-12-11 18:17:35,709 TRACE c.s.s.CommandLineUI [main] Asking for option (RANGE 1-8).
+2020-12-11 18:17:35,709 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 18:17:37,116 ERROR c.s.s.CommandLineUI [main] Non numerical input attempted!
+Trying again..
+2020-12-11 18:17:37,116 TRACE c.s.s.CommandLineUI [main] Asking for option (RANGE 1-8).
+2020-12-11 18:17:37,116 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 18:17:39,620 WARN c.s.s.CommandLineUI [main] Invalid numerical input! Range exceeded (1-8) - input = 9
+2020-12-11 18:17:39,620 TRACE c.s.s.CommandLineUI [main] Asking for option (RANGE 1-8).
+2020-12-11 18:17:39,620 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 18:17:46,740 DEBUG c.s.s.CommandLineUI [main] User selected option 1
+2020-12-11 18:17:46,748 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 18:18:20,509 ERROR c.s.s.CommandLineUI [main] Invalid input
+Trying again..
+2020-12-11 18:18:20,509 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 18:18:41,697 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 18:21:25,152 TRACE c.s.s.CommandLineUI [main] CommandLine UI running
+2020-12-11 18:21:25,152 TRACE c.s.s.CommandLineUI [main] Display header
+2020-12-11 18:21:25,152 TRACE c.s.s.CommandLineUI [main] Show options
+2020-12-11 18:21:25,153 TRACE c.s.s.CommandLineUI [main] Asking for option (RANGE 1-8).
+2020-12-11 18:21:25,153 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 18:21:28,896 DEBUG c.s.s.CommandLineUI [main] User selected option 1
+2020-12-11 18:21:28,896 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 18:21:31,248 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 18:21:37,697 TRACE c.s.s.CommandLineUI [main] CommandLine UI running
+2020-12-11 18:21:37,697 TRACE c.s.s.CommandLineUI [main] Display header
+2020-12-11 18:21:37,697 TRACE c.s.s.CommandLineUI [main] Show options
+2020-12-11 18:21:37,697 TRACE c.s.s.CommandLineUI [main] Asking for option (RANGE 1-8).
+2020-12-11 18:21:37,697 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 18:21:38,960 DEBUG c.s.s.CommandLineUI [main] User selected option 1
+2020-12-11 18:21:38,960 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 18:21:40,737 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 18:22:44,409 TRACE c.s.s.CommandLineUI [main] CommandLine UI running
+2020-12-11 18:22:44,412 TRACE c.s.s.CommandLineUI [main] Display header
+2020-12-11 18:22:44,412 TRACE c.s.s.CommandLineUI [main] Show options
+2020-12-11 18:22:44,413 TRACE c.s.s.CommandLineUI [main] Asking for option (RANGE 1-8).
+2020-12-11 18:22:44,413 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 18:22:47,002 DEBUG c.s.s.CommandLineUI [main] User selected option 1
+2020-12-11 18:22:47,009 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 18:22:51,165 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 18:23:21,005 TRACE c.s.s.CommandLineUI [main] CommandLine UI running
+2020-12-11 18:23:21,008 TRACE c.s.s.CommandLineUI [main] Display header
+2020-12-11 18:23:21,008 TRACE c.s.s.CommandLineUI [main] Show options
+2020-12-11 18:23:21,009 TRACE c.s.s.CommandLineUI [main] Asking for option (RANGE 1-8).
+2020-12-11 18:23:21,009 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 18:23:24,588 DEBUG c.s.s.CommandLineUI [main] User selected option 1
+2020-12-11 18:23:24,595 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 18:23:29,839 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 18:46:08,917 TRACE c.s.s.CommandLineUI [main] CommandLine UI running
+2020-12-11 18:46:08,920 TRACE c.s.s.CommandLineUI [main] Display header
+2020-12-11 18:46:08,921 TRACE c.s.s.CommandLineUI [main] Show options
+2020-12-11 18:46:08,921 TRACE c.s.s.CommandLineUI [main] Asking for option (RANGE 1-8).
+2020-12-11 18:46:08,921 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 19:04:22,368 TRACE c.s.s.CommandLineUI [main] CommandLine UI running
+2020-12-11 19:04:22,372 TRACE c.s.s.CommandLineUI [main] Display header
+2020-12-11 19:04:22,372 TRACE c.s.s.CommandLineUI [main] Show options
+2020-12-11 19:04:22,373 TRACE c.s.s.CommandLineUI [main] Asking for option (RANGE 1-8).
+2020-12-11 19:04:22,373 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 19:04:26,728 DEBUG c.s.s.CommandLineUI [main] User selected option 6
+2020-12-11 19:04:26,736 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 19:04:29,485 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 19:04:59,406 TRACE c.s.s.CommandLineUI [main] CommandLine UI running
+2020-12-11 19:04:59,410 TRACE c.s.s.CommandLineUI [main] Display header
+2020-12-11 19:04:59,410 TRACE c.s.s.CommandLineUI [main] Show options
+2020-12-11 19:04:59,411 TRACE c.s.s.CommandLineUI [main] Asking for option (RANGE 1-8).
+2020-12-11 19:04:59,411 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 19:05:02,824 DEBUG c.s.s.CommandLineUI [main] User selected option 6
+2020-12-11 19:05:02,832 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 19:05:05,948 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 19:05:24,815 TRACE c.s.s.CommandLineUI [main] CommandLine UI running
+2020-12-11 19:05:24,819 TRACE c.s.s.CommandLineUI [main] Display header
+2020-12-11 19:05:24,819 TRACE c.s.s.CommandLineUI [main] Show options
+2020-12-11 19:05:24,819 TRACE c.s.s.CommandLineUI [main] Asking for option (RANGE 1-8).
+2020-12-11 19:05:24,820 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 19:07:09,799 TRACE c.s.s.CommandLineUI [main] CommandLine UI running
+2020-12-11 19:07:09,802 TRACE c.s.s.CommandLineUI [main] Display header
+2020-12-11 19:07:09,802 TRACE c.s.s.CommandLineUI [main] Show options
+2020-12-11 19:07:09,803 TRACE c.s.s.CommandLineUI [main] Asking for option (RANGE 1-8).
+2020-12-11 19:07:09,803 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 19:07:13,027 DEBUG c.s.s.CommandLineUI [main] User selected option 1
+2020-12-11 19:07:13,035 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 19:07:14,895 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 19:07:17,387 TRACE c.s.s.CommandLineUI [main] CommandLine UI running
+2020-12-11 19:07:17,387 TRACE c.s.s.CommandLineUI [main] Display header
+2020-12-11 19:07:17,387 TRACE c.s.s.CommandLineUI [main] Show options
+2020-12-11 19:07:17,387 TRACE c.s.s.CommandLineUI [main] Asking for option (RANGE 1-8).
+2020-12-11 19:07:17,387 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 19:07:19,627 DEBUG c.s.s.CommandLineUI [main] User selected option 2
+2020-12-11 19:07:19,627 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 19:07:21,668 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 19:07:31,394 TRACE c.s.s.CommandLineUI [main] CommandLine UI running
+2020-12-11 19:07:31,394 TRACE c.s.s.CommandLineUI [main] Display header
+2020-12-11 19:07:31,394 TRACE c.s.s.CommandLineUI [main] Show options
+2020-12-11 19:07:31,395 TRACE c.s.s.CommandLineUI [main] Asking for option (RANGE 1-8).
+2020-12-11 19:07:31,395 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 19:07:32,987 DEBUG c.s.s.CommandLineUI [main] User selected option 3
+2020-12-11 19:07:32,987 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 19:07:34,860 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 19:07:37,778 TRACE c.s.s.CommandLineUI [main] CommandLine UI running
+2020-12-11 19:07:37,778 TRACE c.s.s.CommandLineUI [main] Display header
+2020-12-11 19:07:37,778 TRACE c.s.s.CommandLineUI [main] Show options
+2020-12-11 19:07:37,779 TRACE c.s.s.CommandLineUI [main] Asking for option (RANGE 1-8).
+2020-12-11 19:07:37,779 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 19:07:41,131 DEBUG c.s.s.CommandLineUI [main] User selected option 4
+2020-12-11 19:07:41,132 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 19:07:43,167 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 19:13:23,886 TRACE c.s.s.CommandLineUI [main] CommandLine UI running
+2020-12-11 19:13:23,891 TRACE c.s.s.CommandLineUI [main] Display header
+2020-12-11 19:13:23,891 TRACE c.s.s.CommandLineUI [main] Show options
+2020-12-11 19:13:23,891 TRACE c.s.s.CommandLineUI [main] Asking for option (RANGE 1-8).
+2020-12-11 19:13:23,891 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 19:13:26,274 DEBUG c.s.s.CommandLineUI [main] User selected option 4
+2020-12-11 19:13:26,282 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 19:13:28,345 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 19:13:57,753 TRACE c.s.s.CommandLineUI [main] CommandLine UI running
+2020-12-11 19:13:57,757 TRACE c.s.s.CommandLineUI [main] Display header
+2020-12-11 19:13:57,757 TRACE c.s.s.CommandLineUI [main] Show options
+2020-12-11 19:13:57,758 TRACE c.s.s.CommandLineUI [main] Asking for option (RANGE 1-8).
+2020-12-11 19:13:57,758 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 19:13:58,754 DEBUG c.s.s.CommandLineUI [main] User selected option 4
+2020-12-11 19:13:58,761 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 19:14:00,425 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 19:14:27,867 TRACE c.s.s.CommandLineUI [main] CommandLine UI running
+2020-12-11 19:14:27,867 TRACE c.s.s.CommandLineUI [main] Display header
+2020-12-11 19:14:27,867 TRACE c.s.s.CommandLineUI [main] Show options
+2020-12-11 19:14:27,867 TRACE c.s.s.CommandLineUI [main] Asking for option (RANGE 1-8).
+2020-12-11 19:14:27,867 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 19:14:29,978 DEBUG c.s.s.CommandLineUI [main] User selected option 5
+2020-12-11 19:14:29,978 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 19:14:31,364 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 19:14:34,298 TRACE c.s.s.CommandLineUI [main] CommandLine UI running
+2020-12-11 19:14:34,298 TRACE c.s.s.CommandLineUI [main] Display header
+2020-12-11 19:14:34,299 TRACE c.s.s.CommandLineUI [main] Show options
+2020-12-11 19:14:34,299 TRACE c.s.s.CommandLineUI [main] Asking for option (RANGE 1-8).
+2020-12-11 19:14:34,299 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 19:14:37,002 DEBUG c.s.s.CommandLineUI [main] User selected option 6
+2020-12-11 19:14:37,003 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 19:14:38,412 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 19:14:41,643 TRACE c.s.s.CommandLineUI [main] CommandLine UI running
+2020-12-11 19:14:41,643 TRACE c.s.s.CommandLineUI [main] Display header
+2020-12-11 19:14:41,643 TRACE c.s.s.CommandLineUI [main] Show options
+2020-12-11 19:14:41,643 TRACE c.s.s.CommandLineUI [main] Asking for option (RANGE 1-8).
+2020-12-11 19:14:41,643 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 19:14:43,074 DEBUG c.s.s.CommandLineUI [main] User selected option 7
+2020-12-11 19:14:43,074 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 19:14:44,651 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 19:15:01,123 TRACE c.s.s.CommandLineUI [main] CommandLine UI running
+2020-12-11 19:15:01,123 TRACE c.s.s.CommandLineUI [main] Display header
+2020-12-11 19:15:01,123 TRACE c.s.s.CommandLineUI [main] Show options
+2020-12-11 19:15:01,123 TRACE c.s.s.CommandLineUI [main] Asking for option (RANGE 1-8).
+2020-12-11 19:15:01,123 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 19:15:03,155 DEBUG c.s.s.CommandLineUI [main] User selected option 8
+2020-12-11 19:15:03,155 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 19:15:05,148 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 19:15:17,020 TRACE c.s.s.CommandLineUI [main] CommandLine UI running
+2020-12-11 19:15:17,023 TRACE c.s.s.CommandLineUI [main] Display header
+2020-12-11 19:15:17,023 TRACE c.s.s.CommandLineUI [main] Show options
+2020-12-11 19:15:17,024 TRACE c.s.s.CommandLineUI [main] Asking for option (RANGE 1-8).
+2020-12-11 19:15:17,024 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 19:15:18,339 DEBUG c.s.s.CommandLineUI [main] User selected option 1
+2020-12-11 19:15:18,347 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 19:15:19,848 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 19:15:21,867 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 19:31:59,728 TRACE c.s.s.CommandLineUI [main] CommandLine UI running
+2020-12-11 19:31:59,731 TRACE c.s.s.CommandLineUI [main] Display header
+2020-12-11 19:31:59,731 TRACE c.s.s.CommandLineUI [main] Show options
+2020-12-11 19:31:59,731 TRACE c.s.s.CommandLineUI [main] Asking for option (RANGE 1-8).
+2020-12-11 19:31:59,731 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 19:40:07,815 TRACE c.s.s.CommandLineUI [main] CommandLine UI running
+2020-12-11 19:40:07,818 TRACE c.s.s.CommandLineUI [main] Display header
+2020-12-11 19:40:07,818 TRACE c.s.s.CommandLineUI [main] Show options
+2020-12-11 19:40:07,819 TRACE c.s.s.CommandLineUI [main] Asking for option (RANGE 1-8).
+2020-12-11 19:40:07,819 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 19:40:11,367 DEBUG c.s.s.CommandLineUI [main] User selected option 1
+2020-12-11 19:40:11,377 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 19:40:20,716 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 19:40:30,518 TRACE c.s.s.CommandLineUI [main] CommandLine UI running
+2020-12-11 19:40:30,518 TRACE c.s.s.CommandLineUI [main] Display header
+2020-12-11 19:40:30,518 TRACE c.s.s.CommandLineUI [main] Show options
+2020-12-11 19:40:30,519 TRACE c.s.s.CommandLineUI [main] Asking for option (RANGE 1-8).
+2020-12-11 19:40:30,519 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 19:40:35,480 DEBUG c.s.s.CommandLineUI [main] User selected option 7
+2020-12-11 19:40:35,481 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 19:40:37,993 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 19:41:51,650 TRACE c.s.s.CommandLineUI [main] CommandLine UI running
+2020-12-11 19:41:51,653 TRACE c.s.s.CommandLineUI [main] Display header
+2020-12-11 19:41:51,653 TRACE c.s.s.CommandLineUI [main] Show options
+2020-12-11 19:41:51,654 TRACE c.s.s.CommandLineUI [main] Asking for option (RANGE 1-8).
+2020-12-11 19:41:51,654 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 19:41:53,704 DEBUG c.s.s.CommandLineUI [main] User selected option 3
+2020-12-11 19:41:53,713 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 19:41:55,671 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 19:42:11,032 TRACE c.s.s.CommandLineUI [main] CommandLine UI running
+2020-12-11 19:42:11,032 TRACE c.s.s.CommandLineUI [main] Display header
+2020-12-11 19:42:11,032 TRACE c.s.s.CommandLineUI [main] Show options
+2020-12-11 19:42:11,033 TRACE c.s.s.CommandLineUI [main] Asking for option (RANGE 1-8).
+2020-12-11 19:42:11,033 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 19:43:04,276 TRACE c.s.s.CommandLineUI [main] CommandLine UI running
+2020-12-11 19:43:04,281 TRACE c.s.s.CommandLineUI [main] Display header
+2020-12-11 19:43:04,281 TRACE c.s.s.CommandLineUI [main] Show options
+2020-12-11 19:43:04,281 TRACE c.s.s.CommandLineUI [main] Asking for option (RANGE 1-8).
+2020-12-11 19:43:04,281 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 19:43:05,706 DEBUG c.s.s.CommandLineUI [main] User selected option 1
+2020-12-11 19:43:05,714 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 19:43:10,197 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:28:20,498 TRACE c.s.s.CommandLineUI [main] CommandLine UI running
+2020-12-11 20:28:20,501 TRACE c.s.s.CommandLineUI [main] Display header
+2020-12-11 20:28:20,502 TRACE c.s.s.CommandLineUI [main] Show options
+2020-12-11 20:28:20,502 TRACE c.s.s.CommandLineUI [main] Asking for option (RANGE 1-8).
+2020-12-11 20:28:20,502 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:28:24,700 DEBUG c.s.s.CommandLineUI [main] User selected option 0
+2020-12-11 20:28:24,700 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:28:29,643 FATAL c.s.s.CommandLineUI [main] SORTER NOT FOUND. Abort()
+2020-12-11 20:28:29,643 FATAL c.s.s.CommandLineUI [main] SORTER NOT FOUND. Abort()
+2020-12-11 20:28:29,643 FATAL c.s.s.CommandLineUI [main] SORTER NOT FOUND. Abort()
+2020-12-11 20:28:29,643 FATAL c.s.s.CommandLineUI [main] SORTER NOT FOUND. Abort()
+2020-12-11 20:28:29,643 FATAL c.s.s.CommandLineUI [main] SORTER NOT FOUND. Abort()
+2020-12-11 20:28:29,643 FATAL c.s.s.CommandLineUI [main] SORTER NOT FOUND. Abort()
+2020-12-11 20:28:29,643 FATAL c.s.s.CommandLineUI [main] SORTER NOT FOUND. Abort()
+2020-12-11 20:28:29,644 FATAL c.s.s.CommandLineUI [main] SORTER NOT FOUND. Abort()
+2020-12-11 20:29:56,271 TRACE c.s.s.CommandLineUI [main] CommandLine UI running
+2020-12-11 20:29:56,275 TRACE c.s.s.CommandLineUI [main] Display header
+2020-12-11 20:29:56,275 TRACE c.s.s.CommandLineUI [main] Show options
+2020-12-11 20:29:56,276 TRACE c.s.s.CommandLineUI [main] Asking for option (RANGE 1-8).
+2020-12-11 20:29:56,276 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:30:00,358 DEBUG c.s.s.CommandLineUI [main] User selected option 2
+2020-12-11 20:30:00,358 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:30:02,426 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:30:05,469 TRACE c.s.s.CommandLineUI [main] CommandLine UI running
+2020-12-11 20:30:05,469 TRACE c.s.s.CommandLineUI [main] Display header
+2020-12-11 20:30:05,469 TRACE c.s.s.CommandLineUI [main] Show options
+2020-12-11 20:30:05,469 TRACE c.s.s.CommandLineUI [main] Asking for option (RANGE 1-8).
+2020-12-11 20:30:05,470 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:30:08,709 DEBUG c.s.s.CommandLineUI [main] User selected option 0
+2020-12-11 20:30:08,709 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:30:16,949 FATAL c.s.s.CommandLineUI [main] SORTER NOT FOUND. Abort()
+2020-12-11 20:30:16,950 FATAL c.s.s.CommandLineUI [main] SORTER NOT FOUND. Abort()
+2020-12-11 20:30:16,950 FATAL c.s.s.CommandLineUI [main] SORTER NOT FOUND. Abort()
+2020-12-11 20:30:16,950 FATAL c.s.s.CommandLineUI [main] SORTER NOT FOUND. Abort()
+2020-12-11 20:30:16,950 FATAL c.s.s.CommandLineUI [main] SORTER NOT FOUND. Abort()
+2020-12-11 20:30:16,950 FATAL c.s.s.CommandLineUI [main] SORTER NOT FOUND. Abort()
+2020-12-11 20:30:16,950 FATAL c.s.s.CommandLineUI [main] SORTER NOT FOUND. Abort()
+2020-12-11 20:30:16,950 FATAL c.s.s.CommandLineUI [main] SORTER NOT FOUND. Abort()
+2020-12-11 20:32:39,438 TRACE c.s.s.CommandLineUI [main] CommandLine UI running
+2020-12-11 20:32:39,441 TRACE c.s.s.CommandLineUI [main] Display header
+2020-12-11 20:32:39,441 TRACE c.s.s.CommandLineUI [main] Show options
+2020-12-11 20:32:39,442 TRACE c.s.s.CommandLineUI [main] Asking for option (RANGE 1-8).
+2020-12-11 20:32:39,442 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:32:42,257 DEBUG c.s.s.CommandLineUI [main] User selected option 0
+2020-12-11 20:32:42,257 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:32:46,823 FATAL c.s.s.CommandLineUI [main] SORTER NOT FOUND. Abort()
+2020-12-11 20:32:46,823 FATAL c.s.s.CommandLineUI [main] SORTER NOT FOUND. Abort()
+2020-12-11 20:32:46,823 FATAL c.s.s.CommandLineUI [main] SORTER NOT FOUND. Abort()
+2020-12-11 20:32:46,823 FATAL c.s.s.CommandLineUI [main] SORTER NOT FOUND. Abort()
+2020-12-11 20:32:46,823 FATAL c.s.s.CommandLineUI [main] SORTER NOT FOUND. Abort()
+2020-12-11 20:32:46,823 FATAL c.s.s.CommandLineUI [main] SORTER NOT FOUND. Abort()
+2020-12-11 20:32:46,823 FATAL c.s.s.CommandLineUI [main] SORTER NOT FOUND. Abort()
+2020-12-11 20:32:46,823 FATAL c.s.s.CommandLineUI [main] SORTER NOT FOUND. Abort()
+2020-12-11 20:33:52,679 TRACE c.s.s.CommandLineUI [main] CommandLine UI running
+2020-12-11 20:33:52,682 TRACE c.s.s.CommandLineUI [main] Display header
+2020-12-11 20:33:52,683 TRACE c.s.s.CommandLineUI [main] Show options
+2020-12-11 20:33:52,683 TRACE c.s.s.CommandLineUI [main] Asking for option (RANGE 1-8).
+2020-12-11 20:33:52,683 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:33:55,218 DEBUG c.s.s.CommandLineUI [main] User selected option 0
+2020-12-11 20:33:55,218 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:33:58,497 FATAL c.s.s.CommandLineUI [main] SORTER NOT FOUND. Abort()
+2020-12-11 20:33:58,521 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:36:05,526 TRACE c.s.s.CommandLineUI [main] CommandLine UI running
+2020-12-11 20:36:05,529 TRACE c.s.s.CommandLineUI [main] Display header
+2020-12-11 20:36:05,529 TRACE c.s.s.CommandLineUI [main] Show options
+2020-12-11 20:36:05,529 TRACE c.s.s.CommandLineUI [main] Asking for option (RANGE 1-8).
+2020-12-11 20:36:05,529 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:36:08,676 DEBUG c.s.s.CommandLineUI [main] User selected option 0
+2020-12-11 20:36:08,676 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:36:13,251 FATAL c.s.s.CommandLineUI [main] SORTER NOT FOUND. Abort()
+2020-12-11 20:36:13,255 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:37:23,113 TRACE c.s.s.CommandLineUI [main] CommandLine UI running
+2020-12-11 20:37:23,117 TRACE c.s.s.CommandLineUI [main] Display header
+2020-12-11 20:37:23,117 TRACE c.s.s.CommandLineUI [main] Show options
+2020-12-11 20:37:23,118 TRACE c.s.s.CommandLineUI [main] Asking for option (RANGE 1-8).
+2020-12-11 20:37:23,118 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:37:25,990 DEBUG c.s.s.CommandLineUI [main] User selected option 0
+2020-12-11 20:37:25,990 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:37:27,036 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:38:07,055 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:38:08,222 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:38:11,726 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:38:12,456 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:38:12,950 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:38:13,335 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:39:51,434 TRACE c.s.s.CommandLineUI [main] CommandLine UI running
+2020-12-11 20:39:51,437 TRACE c.s.s.CommandLineUI [main] Display header
+2020-12-11 20:39:51,437 TRACE c.s.s.CommandLineUI [main] Show options
+2020-12-11 20:39:51,438 TRACE c.s.s.CommandLineUI [main] Asking for option (RANGE 1-8).
+2020-12-11 20:39:51,438 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:39:54,249 DEBUG c.s.s.CommandLineUI [main] User selected option 0
+2020-12-11 20:39:54,249 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:39:58,509 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:40:00,842 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:40:03,161 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:40:06,286 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:40:21,072 TRACE c.s.s.CommandLineUI [main] CommandLine UI running
+2020-12-11 20:40:21,075 TRACE c.s.s.CommandLineUI [main] Display header
+2020-12-11 20:40:21,076 TRACE c.s.s.CommandLineUI [main] Show options
+2020-12-11 20:40:21,076 TRACE c.s.s.CommandLineUI [main] Asking for option (RANGE 1-8).
+2020-12-11 20:40:21,076 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:40:22,633 DEBUG c.s.s.CommandLineUI [main] User selected option 0
+2020-12-11 20:40:22,633 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:40:30,056 DEBUG c.s.s.CommandLineUI [main] User selected option 1
+2020-12-11 20:40:30,065 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:40:38,504 DEBUG c.s.s.CommandLineUI [main] User selected option 2
+2020-12-11 20:40:38,507 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:41:07,497 DEBUG c.s.s.CommandLineUI [main] User selected option 3
+2020-12-11 20:41:07,499 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:41:08,505 DEBUG c.s.s.CommandLineUI [main] User selected option 4
+2020-12-11 20:41:08,510 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:41:09,922 DEBUG c.s.s.CommandLineUI [main] User selected option 5
+2020-12-11 20:41:09,922 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:41:20,737 DEBUG c.s.s.CommandLineUI [main] User selected option 6
+2020-12-11 20:41:20,739 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:41:22,002 DEBUG c.s.s.CommandLineUI [main] User selected option 7
+2020-12-11 20:41:22,003 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:41:23,162 DEBUG c.s.s.CommandLineUI [main] User selected option 8
+2020-12-11 20:41:23,163 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:41:24,786 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:41:28,506 TRACE c.s.s.CommandLineUI [main] CommandLine UI running
+2020-12-11 20:41:28,506 TRACE c.s.s.CommandLineUI [main] Display header
+2020-12-11 20:41:28,506 TRACE c.s.s.CommandLineUI [main] Show options
+2020-12-11 20:41:28,506 TRACE c.s.s.CommandLineUI [main] Asking for option (RANGE 1-8).
+2020-12-11 20:41:28,506 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:41:32,002 DEBUG c.s.s.CommandLineUI [main] User selected option 4
+2020-12-11 20:41:32,002 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:41:34,290 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:43:58,278 TRACE c.s.s.CommandLineUI [main] CommandLine UI running
+2020-12-11 20:43:58,281 TRACE c.s.s.CommandLineUI [main] Display header
+2020-12-11 20:43:58,281 TRACE c.s.s.CommandLineUI [main] Show options
+2020-12-11 20:43:58,282 TRACE c.s.s.CommandLineUI [main] Asking for option (RANGE 0-8).
+2020-12-11 20:43:58,282 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:44:02,501 DEBUG c.s.s.CommandLineUI [main] User selected option 0
+2020-12-11 20:44:02,501 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:44:03,524 DEBUG c.s.s.CommandLineUI [main] User selected option 1
+2020-12-11 20:44:03,528 ERROR c.s.s.CommandLineUI [main] Invalid input
+Trying again..
+2020-12-11 20:44:03,528 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:44:06,429 ERROR c.s.s.CommandLineUI [main] Invalid input
+Trying again..
+2020-12-11 20:44:06,429 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:44:07,309 ERROR c.s.s.CommandLineUI [main] Invalid input
+Trying again..
+2020-12-11 20:44:07,309 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:44:08,557 ERROR c.s.s.CommandLineUI [main] Invalid input
+Trying again..
+2020-12-11 20:44:08,557 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:44:09,164 ERROR c.s.s.CommandLineUI [main] Invalid input
+Trying again..
+2020-12-11 20:44:09,165 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:44:09,829 ERROR c.s.s.CommandLineUI [main] Invalid input
+Trying again..
+2020-12-11 20:44:09,829 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:44:10,478 ERROR c.s.s.CommandLineUI [main] Invalid input
+Trying again..
+2020-12-11 20:44:10,478 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:44:11,085 ERROR c.s.s.CommandLineUI [main] Invalid input
+Trying again..
+2020-12-11 20:44:11,085 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:44:11,845 ERROR c.s.s.CommandLineUI [main] Invalid input
+Trying again..
+2020-12-11 20:44:11,845 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:44:13,604 ERROR c.s.s.CommandLineUI [main] Invalid input
+Trying again..
+2020-12-11 20:44:13,605 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:44:14,860 ERROR c.s.s.CommandLineUI [main] Invalid input
+Trying again..
+2020-12-11 20:44:14,861 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:44:17,692 ERROR c.s.s.CommandLineUI [main] Invalid input
+Trying again..
+2020-12-11 20:44:17,693 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:44:18,301 ERROR c.s.s.CommandLineUI [main] Invalid input
+Trying again..
+2020-12-11 20:44:18,301 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:44:18,813 ERROR c.s.s.CommandLineUI [main] Invalid input
+Trying again..
+2020-12-11 20:44:18,813 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:44:19,309 ERROR c.s.s.CommandLineUI [main] Invalid input
+Trying again..
+2020-12-11 20:44:19,309 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:44:19,829 ERROR c.s.s.CommandLineUI [main] Invalid input
+Trying again..
+2020-12-11 20:44:19,829 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:46:57,826 TRACE c.s.s.CommandLineUI [main] CommandLine UI running
+2020-12-11 20:46:57,829 TRACE c.s.s.CommandLineUI [main] Display header
+2020-12-11 20:46:57,829 TRACE c.s.s.CommandLineUI [main] Show options
+2020-12-11 20:46:57,830 TRACE c.s.s.CommandLineUI [main] Asking for option (RANGE 0-8).
+2020-12-11 20:46:57,830 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:47:01,696 DEBUG c.s.s.CommandLineUI [main] User selected option 0
+2020-12-11 20:47:01,696 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:47:03,078 DEBUG c.s.s.CommandLineUI [main] User selected option 1
+2020-12-11 20:47:03,083 ERROR c.s.s.CommandLineUI [main] Invalid input
+Trying again..
+2020-12-11 20:47:03,083 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:48:24,029 TRACE c.s.s.CommandLineUI [main] CommandLine UI running
+2020-12-11 20:48:24,032 TRACE c.s.s.CommandLineUI [main] Display header
+2020-12-11 20:48:24,032 TRACE c.s.s.CommandLineUI [main] Show options
+2020-12-11 20:48:24,032 TRACE c.s.s.CommandLineUI [main] Asking for option (RANGE 0-8).
+2020-12-11 20:48:24,032 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:48:30,931 DEBUG c.s.s.CommandLineUI [main] User selected option 0
+2020-12-11 20:48:30,931 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:48:34,137 TRACE c.s.s.CommandLineUI [main] Asking for option (RANGE 0-8).
+2020-12-11 20:48:34,137 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:48:35,218 DEBUG c.s.s.CommandLineUI [main] User selected option 0
+2020-12-11 20:48:35,218 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:48:39,617 DEBUG c.s.s.CommandLineUI [main] User selected option 1
+2020-12-11 20:48:39,621 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:48:41,722 DEBUG c.s.s.CommandLineUI [main] User selected option 2
+2020-12-11 20:48:41,722 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:48:43,034 DEBUG c.s.s.CommandLineUI [main] User selected option 3
+2020-12-11 20:48:43,035 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:48:44,170 DEBUG c.s.s.CommandLineUI [main] User selected option 4
+2020-12-11 20:48:44,175 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:48:44,866 DEBUG c.s.s.CommandLineUI [main] User selected option 5
+2020-12-11 20:48:44,867 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:48:46,010 DEBUG c.s.s.CommandLineUI [main] User selected option 6
+2020-12-11 20:48:46,010 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:48:46,930 DEBUG c.s.s.CommandLineUI [main] User selected option 7
+2020-12-11 20:48:46,930 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:48:48,114 DEBUG c.s.s.CommandLineUI [main] User selected option 8
+2020-12-11 20:48:48,115 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:48:50,066 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:49:09,303 TRACE c.s.s.CommandLineUI [main] CommandLine UI running
+2020-12-11 20:49:09,306 TRACE c.s.s.CommandLineUI [main] Display header
+2020-12-11 20:49:09,307 TRACE c.s.s.CommandLineUI [main] Show options
+2020-12-11 20:49:09,307 TRACE c.s.s.CommandLineUI [main] Asking for option (RANGE 0-8).
+2020-12-11 20:49:09,307 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:49:13,115 WARN c.s.s.CommandLineUI [main] Invalid numerical input! Range exceeded (1-8) - input = 10
+2020-12-11 20:49:13,115 TRACE c.s.s.CommandLineUI [main] Asking for option (RANGE 0-8).
+2020-12-11 20:49:13,115 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:49:15,620 DEBUG c.s.s.CommandLineUI [main] User selected option 8
+2020-12-11 20:49:15,620 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:49:18,153 ERROR c.s.s.CommandLineUI [main] Invalid input
+Trying again..
+2020-12-11 20:49:18,153 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:49:21,655 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 20:49:23,715 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 21:06:04,544 TRACE c.s.s.App [main] App.class initialized.
+2020-12-11 21:06:04,550 TRACE c.s.s.CommandLineUI [main] CommandLineUI.class initialized.
+2020-12-11 21:06:04,550 TRACE c.s.s.CommandLineUI [main] CommandLine UI running
+2020-12-11 21:06:04,550 TRACE c.s.s.CommandLineUI [main] Display header
+2020-12-11 21:06:04,550 TRACE c.s.s.CommandLineUI [main] Show options
+2020-12-11 21:06:04,550 TRACE c.s.s.CommandLineUI [main] Asking for option (RANGE 0-8).
+2020-12-11 21:06:04,550 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 21:06:10,870 DEBUG c.s.s.CommandLineUI [main] User selected option 0
+2020-12-11 21:06:10,870 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 21:06:14,203 TRACE c.s.s.s.SorterType [main] SorterType.class initialized.
+2020-12-11 21:06:14,204 DEBUG c.s.s.CommandLineUI [main] User selected option 1
+2020-12-11 21:06:14,204 TRACE c.s.s.f.SortFactory [main] SortFactory.class initialized.
+2020-12-11 21:06:14,205 TRACE c.s.s.s.BubbleSort [main] BubbleSort.class initialized.
+2020-12-11 21:06:14,209 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 21:06:15,957 DEBUG c.s.s.CommandLineUI [main] User selected option 2
+2020-12-11 21:06:15,957 TRACE c.s.s.s.MergeSort [main] MergeSort.class initialized.
+2020-12-11 21:06:15,957 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 21:06:16,598 DEBUG c.s.s.CommandLineUI [main] User selected option 3
+2020-12-11 21:06:16,598 TRACE c.s.s.s.HeapSort [main] HeapSort.class initialized.
+2020-12-11 21:06:16,598 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 21:06:17,109 DEBUG c.s.s.CommandLineUI [main] User selected option 4
+2020-12-11 21:06:17,109 TRACE c.s.s.b.BinaryTree [main] BinaryTree.class initialized.
+2020-12-11 21:06:17,110 TRACE c.s.s.b.Node [main] Node.class initialized.
+2020-12-11 21:06:17,114 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 21:06:17,613 DEBUG c.s.s.CommandLineUI [main] User selected option 5
+2020-12-11 21:06:17,613 TRACE c.s.s.s.ShellSort [main] ShellSort.class initialized.
+2020-12-11 21:06:17,614 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 21:06:18,149 DEBUG c.s.s.CommandLineUI [main] User selected option 6
+2020-12-11 21:06:18,149 TRACE c.s.s.s.QuickSort [main] QuickSort.class initialized.
+2020-12-11 21:06:18,150 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 21:06:18,693 DEBUG c.s.s.CommandLineUI [main] User selected option 7
+2020-12-11 21:06:18,693 TRACE c.s.s.s.InsertionSort [main] InsertionSort.class initialized.
+2020-12-11 21:06:18,693 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 21:06:19,349 DEBUG c.s.s.CommandLineUI [main] User selected option 8
+2020-12-11 21:06:19,349 TRACE c.s.s.s.BinarySort [main] BinarySort.class initialized.
+2020-12-11 21:06:19,350 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 21:06:20,085 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 21:07:35,555 TRACE c.s.s.App [main] App.class initialized.
+2020-12-11 21:07:35,560 TRACE c.s.s.CommandLineUI [main] CommandLineUI.class initialized.
+2020-12-11 21:07:35,561 TRACE c.s.s.CommandLineUI [main] CommandLine UI running
+2020-12-11 21:07:35,561 TRACE c.s.s.CommandLineUI [main] Display header
+2020-12-11 21:07:35,561 TRACE c.s.s.CommandLineUI [main] Show options
+2020-12-11 21:07:35,562 TRACE c.s.s.CommandLineUI [main] Asking for option (RANGE 0-8).
+2020-12-11 21:07:35,562 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 21:07:37,423 DEBUG c.s.s.CommandLineUI [main] User selected option 0
+2020-12-11 21:07:37,423 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 21:07:40,574 TRACE c.s.s.s.SorterType [main] SorterType.class initialized.
+2020-12-11 21:07:40,575 DEBUG c.s.s.CommandLineUI [main] User selected option 1
+2020-12-11 21:07:40,575 TRACE c.s.s.f.SortFactory [main] SortFactory.class initialized.
+2020-12-11 21:07:40,575 TRACE c.s.s.s.BubbleSort [main] BubbleSort.class initialized.
+2020-12-11 21:07:40,795 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 21:08:07,799 DEBUG c.s.s.CommandLineUI [main] User selected option 2
+2020-12-11 21:08:07,799 TRACE c.s.s.s.MergeSort [main] MergeSort.class initialized.
+2020-12-11 21:08:07,840 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 21:08:12,823 DEBUG c.s.s.CommandLineUI [main] User selected option 3
+2020-12-11 21:08:12,823 TRACE c.s.s.s.HeapSort [main] HeapSort.class initialized.
+2020-12-11 21:08:12,864 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 21:08:15,415 DEBUG c.s.s.CommandLineUI [main] User selected option 4
+2020-12-11 21:08:15,416 TRACE c.s.s.b.BinaryTree [main] BinaryTree.class initialized.
+2020-12-11 21:08:15,416 TRACE c.s.s.b.Node [main] Node.class initialized.
+2020-12-11 21:08:15,464 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 21:08:18,672 DEBUG c.s.s.CommandLineUI [main] User selected option 5
+2020-12-11 21:08:18,672 TRACE c.s.s.s.ShellSort [main] ShellSort.class initialized.
+2020-12-11 21:08:18,709 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 21:08:20,743 DEBUG c.s.s.CommandLineUI [main] User selected option 6
+2020-12-11 21:08:20,743 TRACE c.s.s.s.QuickSort [main] QuickSort.class initialized.
+2020-12-11 21:08:20,780 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 21:08:24,247 DEBUG c.s.s.CommandLineUI [main] User selected option 7
+2020-12-11 21:08:24,248 TRACE c.s.s.s.InsertionSort [main] InsertionSort.class initialized.
+2020-12-11 21:08:24,294 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 21:08:25,895 DEBUG c.s.s.CommandLineUI [main] User selected option 8
+2020-12-11 21:08:25,896 TRACE c.s.s.s.BinarySort [main] BinarySort.class initialized.
+2020-12-11 21:08:25,941 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 21:11:07,783 TRACE c.s.s.App [main] App.class initialized.
+2020-12-11 21:11:07,789 TRACE c.s.s.CommandLineUI [main] CommandLineUI.class initialized.
+2020-12-11 21:11:07,789 TRACE c.s.s.CommandLineUI [main] CommandLine UI running
+2020-12-11 21:11:07,789 TRACE c.s.s.CommandLineUI [main] Display header
+2020-12-11 21:11:07,789 TRACE c.s.s.CommandLineUI [main] Show options
+2020-12-11 21:11:07,789 TRACE c.s.s.CommandLineUI [main] Asking for option (RANGE 0-8).
+2020-12-11 21:11:07,789 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 21:11:09,851 DEBUG c.s.s.CommandLineUI [main] User selected option 0
+2020-12-11 21:11:09,851 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 21:11:12,986 TRACE c.s.s.s.SorterType [main] SorterType.class initialized.
+2020-12-11 21:11:12,986 DEBUG c.s.s.CommandLineUI [main] User selected option 1
+2020-12-11 21:11:12,987 TRACE c.s.s.f.SortFactory [main] SortFactory.class initialized.
+2020-12-11 21:11:12,987 TRACE c.s.s.s.BubbleSort [main] BubbleSort.class initialized.
+2020-12-11 21:11:12,996 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 21:11:16,187 DEBUG c.s.s.CommandLineUI [main] User selected option 2
+2020-12-11 21:11:16,187 TRACE c.s.s.s.MergeSort [main] MergeSort.class initialized.
+2020-12-11 21:11:16,188 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 21:11:17,331 DEBUG c.s.s.CommandLineUI [main] User selected option 3
+2020-12-11 21:11:17,331 TRACE c.s.s.s.HeapSort [main] HeapSort.class initialized.
+2020-12-11 21:11:17,332 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 21:11:17,907 DEBUG c.s.s.CommandLineUI [main] User selected option 4
+2020-12-11 21:11:17,907 TRACE c.s.s.b.BinaryTree [main] BinaryTree.class initialized.
+2020-12-11 21:11:17,908 TRACE c.s.s.b.Node [main] Node.class initialized.
+2020-12-11 21:11:17,913 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 21:11:18,451 DEBUG c.s.s.CommandLineUI [main] User selected option 5
+2020-12-11 21:11:18,451 TRACE c.s.s.s.ShellSort [main] ShellSort.class initialized.
+2020-12-11 21:11:18,452 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 21:11:18,898 DEBUG c.s.s.CommandLineUI [main] User selected option 6
+2020-12-11 21:11:18,899 TRACE c.s.s.s.QuickSort [main] QuickSort.class initialized.
+2020-12-11 21:11:18,899 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 21:11:19,378 DEBUG c.s.s.CommandLineUI [main] User selected option 7
+2020-12-11 21:11:19,379 TRACE c.s.s.s.InsertionSort [main] InsertionSort.class initialized.
+2020-12-11 21:11:19,383 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 21:11:19,931 DEBUG c.s.s.CommandLineUI [main] User selected option 8
+2020-12-11 21:11:19,931 TRACE c.s.s.s.BinarySort [main] BinarySort.class initialized.
+2020-12-11 21:11:19,932 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 21:11:20,554 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 21:11:35,802 TRACE c.s.s.App [main] App.class initialized.
+2020-12-11 21:11:35,807 TRACE c.s.s.CommandLineUI [main] CommandLineUI.class initialized.
+2020-12-11 21:11:35,808 TRACE c.s.s.CommandLineUI [main] CommandLine UI running
+2020-12-11 21:11:35,808 TRACE c.s.s.CommandLineUI [main] Display header
+2020-12-11 21:11:35,808 TRACE c.s.s.CommandLineUI [main] Show options
+2020-12-11 21:11:35,809 TRACE c.s.s.CommandLineUI [main] Asking for option (RANGE 0-8).
+2020-12-11 21:11:35,809 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 21:11:39,723 DEBUG c.s.s.CommandLineUI [main] User selected option 0
+2020-12-11 21:11:39,723 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 21:11:45,012 TRACE c.s.s.s.SorterType [main] SorterType.class initialized.
+2020-12-11 21:11:45,012 DEBUG c.s.s.CommandLineUI [main] User selected option 1
+2020-12-11 21:11:45,012 TRACE c.s.s.f.SortFactory [main] SortFactory.class initialized.
+2020-12-11 21:11:45,012 TRACE c.s.s.s.BubbleSort [main] BubbleSort.class initialized.
+2020-12-11 21:11:45,012 ERROR c.s.s.CommandLineUI [main] Invalid input
+Trying again..
+2020-12-11 21:11:45,012 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 21:12:12,324 TRACE c.s.s.App [main] App.class initialized.
+2020-12-11 21:12:12,330 TRACE c.s.s.CommandLineUI [main] CommandLineUI.class initialized.
+2020-12-11 21:12:12,331 TRACE c.s.s.CommandLineUI [main] CommandLine UI running
+2020-12-11 21:12:12,331 TRACE c.s.s.CommandLineUI [main] Display header
+2020-12-11 21:12:12,331 TRACE c.s.s.CommandLineUI [main] Show options
+2020-12-11 21:12:12,331 TRACE c.s.s.CommandLineUI [main] Asking for option (RANGE 0-8).
+2020-12-11 21:12:12,331 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 21:12:15,356 DEBUG c.s.s.CommandLineUI [main] User selected option 0
+2020-12-11 21:12:15,357 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 21:12:19,443 TRACE c.s.s.s.SorterType [main] SorterType.class initialized.
+2020-12-11 21:12:19,444 DEBUG c.s.s.CommandLineUI [main] User selected option 1
+2020-12-11 21:12:19,445 TRACE c.s.s.f.SortFactory [main] SortFactory.class initialized.
+2020-12-11 21:12:19,445 TRACE c.s.s.s.BubbleSort [main] BubbleSort.class initialized.
+2020-12-11 21:12:41,430 TRACE c.s.s.App [main] App.class initialized.
+2020-12-11 21:12:41,435 TRACE c.s.s.CommandLineUI [main] CommandLineUI.class initialized.
+2020-12-11 21:12:41,436 TRACE c.s.s.CommandLineUI [main] CommandLine UI running
+2020-12-11 21:12:41,436 TRACE c.s.s.CommandLineUI [main] Display header
+2020-12-11 21:12:41,436 TRACE c.s.s.CommandLineUI [main] Show options
+2020-12-11 21:12:41,436 TRACE c.s.s.CommandLineUI [main] Asking for option (RANGE 0-8).
+2020-12-11 21:12:41,436 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 21:12:44,444 DEBUG c.s.s.CommandLineUI [main] User selected option 0
+2020-12-11 21:12:44,445 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 21:12:47,083 TRACE c.s.s.s.SorterType [main] SorterType.class initialized.
+2020-12-11 21:12:47,083 DEBUG c.s.s.CommandLineUI [main] User selected option 1
+2020-12-11 21:12:47,084 TRACE c.s.s.f.SortFactory [main] SortFactory.class initialized.
+2020-12-11 21:12:47,084 TRACE c.s.s.s.BubbleSort [main] BubbleSort.class initialized.
+2020-12-11 21:12:47,250 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 21:12:48,268 DEBUG c.s.s.CommandLineUI [main] User selected option 2
+2020-12-11 21:12:48,268 TRACE c.s.s.s.MergeSort [main] MergeSort.class initialized.
+2020-12-11 21:12:48,271 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 21:12:52,412 DEBUG c.s.s.CommandLineUI [main] User selected option 3
+2020-12-11 21:12:52,412 TRACE c.s.s.s.HeapSort [main] HeapSort.class initialized.
+2020-12-11 21:12:52,415 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 21:12:58,134 TRACE c.s.s.App [main] App.class initialized.
+2020-12-11 21:12:58,138 TRACE c.s.s.CommandLineUI [main] CommandLineUI.class initialized.
+2020-12-11 21:12:58,139 TRACE c.s.s.CommandLineUI [main] CommandLine UI running
+2020-12-11 21:12:58,139 TRACE c.s.s.CommandLineUI [main] Display header
+2020-12-11 21:12:58,139 TRACE c.s.s.CommandLineUI [main] Show options
+2020-12-11 21:12:58,140 TRACE c.s.s.CommandLineUI [main] Asking for option (RANGE 0-8).
+2020-12-11 21:12:58,140 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 21:12:59,869 DEBUG c.s.s.CommandLineUI [main] User selected option 0
+2020-12-11 21:12:59,869 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 21:13:02,956 TRACE c.s.s.s.SorterType [main] SorterType.class initialized.
+2020-12-11 21:13:02,956 DEBUG c.s.s.CommandLineUI [main] User selected option 1
+2020-12-11 21:13:02,956 TRACE c.s.s.f.SortFactory [main] SortFactory.class initialized.
+2020-12-11 21:13:02,956 TRACE c.s.s.s.BubbleSort [main] BubbleSort.class initialized.
+2020-12-11 21:13:23,286 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 21:13:27,933 DEBUG c.s.s.CommandLineUI [main] User selected option 2
+2020-12-11 21:13:27,933 TRACE c.s.s.s.MergeSort [main] MergeSort.class initialized.
+2020-12-11 21:13:27,951 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 21:13:28,725 DEBUG c.s.s.CommandLineUI [main] User selected option 3
+2020-12-11 21:13:28,725 TRACE c.s.s.s.HeapSort [main] HeapSort.class initialized.
+2020-12-11 21:13:28,742 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 21:13:29,517 DEBUG c.s.s.CommandLineUI [main] User selected option 4
+2020-12-11 21:13:29,517 TRACE c.s.s.b.BinaryTree [main] BinaryTree.class initialized.
+2020-12-11 21:13:29,518 TRACE c.s.s.b.Node [main] Node.class initialized.
+2020-12-11 21:13:29,558 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 21:13:30,133 DEBUG c.s.s.CommandLineUI [main] User selected option 5
+2020-12-11 21:13:30,133 TRACE c.s.s.s.ShellSort [main] ShellSort.class initialized.
+2020-12-11 21:13:30,151 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 21:13:30,989 DEBUG c.s.s.CommandLineUI [main] User selected option 6
+2020-12-11 21:13:30,989 TRACE c.s.s.s.QuickSort [main] QuickSort.class initialized.
+2020-12-11 21:13:31,006 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 21:13:31,653 DEBUG c.s.s.CommandLineUI [main] User selected option 7
+2020-12-11 21:13:31,653 TRACE c.s.s.s.InsertionSort [main] InsertionSort.class initialized.
+2020-12-11 21:13:32,365 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 21:13:35,797 DEBUG c.s.s.CommandLineUI [main] User selected option 8
+2020-12-11 21:13:35,797 TRACE c.s.s.s.BinarySort [main] BinarySort.class initialized.
+2020-12-11 21:13:36,614 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-11 21:17:48,167 TRACE c.s.s.App [main] App.class initialized.
+2020-12-11 21:17:48,173 TRACE c.s.s.CommandLineUI [main] CommandLineUI.class initialized.
+2020-12-11 21:17:48,173 TRACE c.s.s.u.RandomArray [main] RandomArray.class initialized.
+2020-12-11 21:17:48,174 DEBUG c.s.s.u.RandomArray [main] Generating random array of size: 100
+2020-12-11 21:17:48,174 DEBUG c.s.s.u.RandomArray [main] Random array generated successfully!
+2020-12-11 21:17:48,174 TRACE c.s.s.CommandLineUI [main] CommandLine UI running
+2020-12-11 21:17:48,174 TRACE c.s.s.CommandLineUI [main] Display header
+2020-12-11 21:17:48,174 TRACE c.s.s.CommandLineUI [main] Show options
+2020-12-11 21:17:48,175 TRACE c.s.s.CommandLineUI [main] Asking for option (RANGE 0-8).
+2020-12-11 21:17:48,175 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-12 20:53:52,793 TRACE c.s.s.App [main] App.class initialized.
+2020-12-12 20:53:52,802 TRACE c.s.s.CommandLineUI [main] CommandLineUI.class initialized.
+2020-12-12 20:53:52,804 TRACE c.s.s.u.RandomArray [main] RandomArray.class initialized.
+2020-12-12 20:53:52,805 DEBUG c.s.s.u.RandomArray [main] Generating random array of size: 100
+2020-12-12 20:53:52,805 DEBUG c.s.s.u.RandomArray [main] Random array generated successfully!
+2020-12-12 20:53:52,805 TRACE c.s.s.CommandLineUI [main] CommandLine UI running
+2020-12-12 20:53:52,805 TRACE c.s.s.CommandLineUI [main] Display header
+2020-12-12 20:53:52,806 TRACE c.s.s.CommandLineUI [main] Show options
+2020-12-12 20:53:52,806 TRACE c.s.s.CommandLineUI [main] Asking for option (RANGE 0-8).
+2020-12-12 20:53:52,806 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-12 20:53:55,219 DEBUG c.s.s.CommandLineUI [main] User selected option 0
+2020-12-12 20:53:55,219 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-12 20:54:00,515 TRACE c.s.s.s.SorterType [main] SorterType.class initialized.
+2020-12-12 20:54:00,516 DEBUG c.s.s.CommandLineUI [main] User selected option 1
+2020-12-12 20:54:00,517 TRACE c.s.s.f.SortFactory [main] SortFactory.class initialized.
+2020-12-12 20:54:00,517 TRACE c.s.s.s.BubbleSort [main] BubbleSort.class initialized.
+2020-12-12 20:54:00,517 DEBUG c.s.s.u.RandomArray [main] Generating random array of size: 1000
+2020-12-12 20:54:00,517 DEBUG c.s.s.u.RandomArray [main] Random array generated successfully!
+2020-12-12 20:54:00,518 TRACE c.s.s.u.Swap [main] Swap.class initialized.
+2020-12-12 20:54:00,526 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-12 20:54:03,368 DEBUG c.s.s.CommandLineUI [main] User selected option 2
+2020-12-12 20:54:03,368 TRACE c.s.s.s.MergeSort [main] MergeSort.class initialized.
+2020-12-12 20:54:03,368 DEBUG c.s.s.u.RandomArray [main] Generating random array of size: 1000
+2020-12-12 20:54:03,368 DEBUG c.s.s.u.RandomArray [main] Random array generated successfully!
+2020-12-12 20:54:03,369 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-12 20:54:05,642 DEBUG c.s.s.CommandLineUI [main] User selected option 3
+2020-12-12 20:54:05,642 TRACE c.s.s.s.HeapSort [main] HeapSort.class initialized.
+2020-12-12 20:54:05,642 DEBUG c.s.s.u.RandomArray [main] Generating random array of size: 1000
+2020-12-12 20:54:05,642 DEBUG c.s.s.u.RandomArray [main] Random array generated successfully!
+2020-12-12 20:54:05,643 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-12 20:54:06,744 DEBUG c.s.s.CommandLineUI [main] User selected option 4
+2020-12-12 20:54:06,744 TRACE c.s.s.b.BinaryTree [main] BinaryTree.class initialized.
+2020-12-12 20:54:06,745 TRACE c.s.s.b.Node [main] Node.class initialized.
+2020-12-12 20:54:06,746 DEBUG c.s.s.u.RandomArray [main] Generating random array of size: 1000
+2020-12-12 20:54:06,746 DEBUG c.s.s.u.RandomArray [main] Random array generated successfully!
+2020-12-12 20:54:06,753 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-12 20:54:08,224 DEBUG c.s.s.CommandLineUI [main] User selected option 5
+2020-12-12 20:54:08,224 TRACE c.s.s.s.ShellSort [main] ShellSort.class initialized.
+2020-12-12 20:54:08,224 DEBUG c.s.s.u.RandomArray [main] Generating random array of size: 1000
+2020-12-12 20:54:08,224 DEBUG c.s.s.u.RandomArray [main] Random array generated successfully!
+2020-12-12 20:54:08,225 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-12 20:54:09,352 DEBUG c.s.s.CommandLineUI [main] User selected option 6
+2020-12-12 20:54:09,352 TRACE c.s.s.s.QuickSort [main] QuickSort.class initialized.
+2020-12-12 20:54:09,352 DEBUG c.s.s.u.RandomArray [main] Generating random array of size: 1000
+2020-12-12 20:54:09,353 DEBUG c.s.s.u.RandomArray [main] Random array generated successfully!
+2020-12-12 20:54:09,353 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-12 20:54:10,136 DEBUG c.s.s.CommandLineUI [main] User selected option 7
+2020-12-12 20:54:10,136 TRACE c.s.s.s.InsertionSort [main] InsertionSort.class initialized.
+2020-12-12 20:54:10,136 DEBUG c.s.s.u.RandomArray [main] Generating random array of size: 1000
+2020-12-12 20:54:10,136 DEBUG c.s.s.u.RandomArray [main] Random array generated successfully!
+2020-12-12 20:54:10,140 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-12 20:54:21,984 DEBUG c.s.s.CommandLineUI [main] User selected option 8
+2020-12-12 20:54:21,984 TRACE c.s.s.s.BinarySort [main] BinarySort.class initialized.
+2020-12-12 20:54:21,984 DEBUG c.s.s.u.RandomArray [main] Generating random array of size: 1000
+2020-12-12 20:54:21,984 DEBUG c.s.s.u.RandomArray [main] Random array generated successfully!
+2020-12-12 20:54:21,985 TRACE c.s.s.CommandLineUI [main] Waiting for input...
+2020-12-12 21:21:43,325 TRACE c.s.s.App [main] App.class initialized.
+2020-12-12 21:21:43,331 TRACE c.s.s.u.CommandLineUI [main] CommandLineUI.class initialized.
+2020-12-12 21:21:43,331 TRACE c.s.s.u.RandomArray [main] RandomArray.class initialized.
+2020-12-12 21:21:43,332 DEBUG c.s.s.u.RandomArray [main] Generating random array of size: 100
+2020-12-12 21:21:43,332 DEBUG c.s.s.u.RandomArray [main] Random array generated successfully!
+2020-12-12 21:23:31,811 TRACE c.s.s.App [main] App.class initialized.
+2020-12-12 21:23:31,816 TRACE c.s.s.u.CommandLineUI [main] CommandLineUI.class initialized.
+2020-12-12 21:23:31,817 TRACE c.s.s.u.RandomArray [main] RandomArray.class initialized.
+2020-12-12 21:23:31,817 DEBUG c.s.s.u.RandomArray [main] Generating random array of size: 100
+2020-12-12 21:23:31,818 DEBUG c.s.s.u.RandomArray [main] Random array generated successfully!
+2020-12-13 18:01:58,904 TRACE c.s.s.u.Swap [main] Swap.class initialized.
+2020-12-13 18:01:58,931 TRACE c.s.s.s.SorterType [main] SorterType.class initialized.
+2020-12-13 18:01:58,931 TRACE c.s.s.s.BubbleSort [main] BubbleSort.class initialized.
+2020-12-13 18:01:58,931 TRACE c.s.s.s.MergeSort [main] MergeSort.class initialized.
+2020-12-13 18:01:58,931 TRACE c.s.s.s.HeapSort [main] HeapSort.class initialized.
+2020-12-13 18:01:58,931 TRACE c.s.s.b.BinaryTree [main] BinaryTree.class initialized.
+2020-12-13 18:01:58,932 TRACE c.s.s.b.Node [main] Node.class initialized.
+2020-12-13 18:01:58,932 TRACE c.s.s.s.ShellSort [main] ShellSort.class initialized.
+2020-12-13 18:01:58,932 TRACE c.s.s.s.QuickSort [main] QuickSort.class initialized.
+2020-12-13 18:01:58,933 TRACE c.s.s.s.InsertionSort [main] InsertionSort.class initialized.
+2020-12-13 18:01:58,936 TRACE c.s.s.u.RandomArray [main] RandomArray.class initialized.
+2020-12-13 18:01:58,936 DEBUG c.s.s.u.RandomArray [main] Generating random array of size: 100
+2020-12-13 18:01:58,936 DEBUG c.s.s.u.RandomArray [main] Random array generated successfully!
+2020-12-13 18:01:58,937 DEBUG c.s.s.u.RandomArray [main] Generating random array of size: 100
+2020-12-13 18:01:58,937 DEBUG c.s.s.u.RandomArray [main] Random array generated successfully!
+2020-12-13 18:01:58,937 DEBUG c.s.s.u.RandomArray [main] Generating random array of size: 100
+2020-12-13 18:01:58,937 DEBUG c.s.s.u.RandomArray [main] Random array generated successfully!
+2020-12-13 18:01:58,937 DEBUG c.s.s.u.RandomArray [main] Generating random array of size: 100
+2020-12-13 18:01:58,937 DEBUG c.s.s.u.RandomArray [main] Random array generated successfully!
+2020-12-13 18:01:58,941 DEBUG c.s.s.u.RandomArray [main] Generating random array of size: 100
+2020-12-13 18:01:58,941 DEBUG c.s.s.u.RandomArray [main] Random array generated successfully!
+2020-12-13 18:01:58,941 DEBUG c.s.s.u.RandomArray [main] Generating random array of size: 100
+2020-12-13 18:01:58,941 DEBUG c.s.s.u.RandomArray [main] Random array generated successfully!
+2020-12-13 18:01:58,941 DEBUG c.s.s.u.RandomArray [main] Generating random array of size: 100
+2020-12-13 18:01:58,942 DEBUG c.s.s.u.RandomArray [main] Random array generated successfully!
+2020-12-13 18:01:58,942 DEBUG c.s.s.u.RandomArray [main] Generating random array of size: 100
+2020-12-13 18:01:58,942 DEBUG c.s.s.u.RandomArray [main] Random array generated successfully!
+2020-12-13 18:01:58,942 TRACE c.s.s.s.BinarySort [main] BinarySort.class initialized.
+2020-12-13 18:02:06,649 TRACE c.s.s.App [main] App.class initialized.
+2020-12-13 18:02:06,654 TRACE c.s.s.u.CommandLineUI [main] CommandLineUI.class initialized.
+2020-12-13 18:02:06,654 TRACE c.s.s.u.CommandLineUI [main] CommandLine UI running
+2020-12-13 18:02:06,654 TRACE c.s.s.u.CommandLineUI [main] Display header
+2020-12-13 18:02:06,654 TRACE c.s.s.u.CommandLineUI [main] Show options
+2020-12-13 18:02:06,654 TRACE c.s.s.u.CommandLineUI [main] Asking for option (RANGE 0-8).
+2020-12-13 18:02:06,655 TRACE c.s.s.u.CommandLineUI [main] Waiting for input...
+2020-12-13 18:02:10,125 DEBUG c.s.s.u.CommandLineUI [main] User selected option 2
+2020-12-13 18:02:10,125 TRACE c.s.s.u.CommandLineUI [main] Asking for input on option selected: 2
+2020-12-13 18:02:10,125 TRACE c.s.s.u.CommandLineUI [main] Waiting for input...
+2020-12-13 18:02:16,358 TRACE c.s.s.f.SortFactory [main] SortFactory.class initialized.
+2020-12-13 18:02:16,364 TRACE c.s.s.s.SorterType [main] SorterType.class initialized.
+2020-12-13 18:02:16,364 TRACE c.s.s.s.MergeSort [main] MergeSort.class initialized.
+2020-12-13 18:02:16,367 TRACE c.s.s.u.CommandLineUI [main] Printing array with size 6
+2020-12-13 18:02:16,369 TRACE c.s.s.u.CommandLineUI [main] Printing: success
+2020-12-13 18:02:16,369 TRACE c.s.s.u.CommandLineUI [main] Printing array with size 6
+2020-12-13 18:02:16,369 TRACE c.s.s.u.CommandLineUI [main] Printing: success
+2020-12-13 18:02:16,371 TRACE c.s.s.u.CommandLineUI [main] Waiting for input...
+2020-12-13 18:04:08,645 TRACE c.s.s.App [main] App.class initialized.
+2020-12-13 18:04:08,650 TRACE c.s.s.u.CommandLineUI [main] CommandLineUI.class initialized.
+2020-12-13 18:04:08,650 TRACE c.s.s.u.CommandLineUI [main] CommandLine UI running
+2020-12-13 18:04:08,650 TRACE c.s.s.u.CommandLineUI [main] Display header
+2020-12-13 18:04:08,650 TRACE c.s.s.u.CommandLineUI [main] Show options
+2020-12-13 18:04:08,651 TRACE c.s.s.u.CommandLineUI [main] Asking for option (RANGE 0-8).
+2020-12-13 18:04:08,651 TRACE c.s.s.u.CommandLineUI [main] Waiting for input...
+2020-12-13 18:04:13,079 DEBUG c.s.s.u.CommandLineUI [main] User selected option 1
+2020-12-13 18:04:13,079 TRACE c.s.s.u.CommandLineUI [main] Asking for input on option selected: 1
+2020-12-13 18:04:13,079 TRACE c.s.s.u.CommandLineUI [main] Waiting for input...
+2020-12-13 18:04:22,735 TRACE c.s.s.f.SortFactory [main] SortFactory.class initialized.
+2020-12-13 18:04:22,741 TRACE c.s.s.s.SorterType [main] SorterType.class initialized.
+2020-12-13 18:04:22,741 TRACE c.s.s.s.BubbleSort [main] BubbleSort.class initialized.
+2020-12-13 18:04:22,745 TRACE c.s.s.u.Swap [main] Swap.class initialized.
+2020-12-13 18:04:22,745 TRACE c.s.s.u.CommandLineUI [main] Printing array with size 4
+2020-12-13 18:04:22,747 TRACE c.s.s.u.CommandLineUI [main] Printing: success
+2020-12-13 18:04:22,747 TRACE c.s.s.u.CommandLineUI [main] Printing array with size 4
+2020-12-13 18:04:22,747 TRACE c.s.s.u.CommandLineUI [main] Printing: success
+2020-12-13 18:04:22,749 TRACE c.s.s.u.CommandLineUI [main] Waiting for input...
+2020-12-13 18:04:32,375 TRACE c.s.s.u.CommandLineUI [main] CommandLine UI running
+2020-12-13 18:04:32,375 TRACE c.s.s.u.CommandLineUI [main] Display header
+2020-12-13 18:04:32,375 TRACE c.s.s.u.CommandLineUI [main] Show options
+2020-12-13 18:04:32,375 TRACE c.s.s.u.CommandLineUI [main] Asking for option (RANGE 0-8).
+2020-12-13 18:04:32,375 TRACE c.s.s.u.CommandLineUI [main] Waiting for input...
+2020-12-13 18:45:13,189 TRACE c.s.s.u.Swap [main] Swap.class initialized.
+2020-12-13 18:45:13,210 TRACE c.s.s.f.SortFactory [main] SortFactory.class initialized.
+2020-12-13 18:45:13,220 TRACE c.s.s.s.SorterType [main] SorterType.class initialized.
+2020-12-13 18:45:13,222 TRACE c.s.s.s.BubbleSort [main] BubbleSort.class initialized.
+2020-12-13 18:45:13,222 TRACE c.s.s.s.MergeSort [main] MergeSort.class initialized.
+2020-12-13 18:45:13,222 TRACE c.s.s.s.HeapSort [main] HeapSort.class initialized.
+2020-12-13 18:45:13,222 TRACE c.s.s.b.BinaryTree [main] BinaryTree.class initialized.
+2020-12-13 18:45:13,223 TRACE c.s.s.b.Node [main] Node.class initialized.
+2020-12-13 18:45:13,223 TRACE c.s.s.s.ShellSort [main] ShellSort.class initialized.
+2020-12-13 18:45:13,223 TRACE c.s.s.s.QuickSort [main] QuickSort.class initialized.
+2020-12-13 18:45:13,223 TRACE c.s.s.s.InsertionSort [main] InsertionSort.class initialized.
+2020-12-13 18:45:13,226 TRACE c.s.s.u.RandomArray [main] RandomArray.class initialized.
+2020-12-13 18:45:13,226 DEBUG c.s.s.u.RandomArray [main] Generating random array of size: 100
+2020-12-13 18:45:13,226 DEBUG c.s.s.u.RandomArray [main] Random array generated successfully!
+2020-12-13 18:45:13,227 DEBUG c.s.s.u.RandomArray [main] Generating random array of size: 100
+2020-12-13 18:45:13,227 DEBUG c.s.s.u.RandomArray [main] Random array generated successfully!
+2020-12-13 18:45:13,227 DEBUG c.s.s.u.RandomArray [main] Generating random array of size: 100
+2020-12-13 18:45:13,227 DEBUG c.s.s.u.RandomArray [main] Random array generated successfully!
+2020-12-13 18:45:13,227 DEBUG c.s.s.u.RandomArray [main] Generating random array of size: 100
+2020-12-13 18:45:13,227 DEBUG c.s.s.u.RandomArray [main] Random array generated successfully!
+2020-12-13 18:45:13,230 DEBUG c.s.s.u.RandomArray [main] Generating random array of size: 100
+2020-12-13 18:45:13,230 DEBUG c.s.s.u.RandomArray [main] Random array generated successfully!
+2020-12-13 18:45:13,230 DEBUG c.s.s.u.RandomArray [main] Generating random array of size: 100
+2020-12-13 18:45:13,230 DEBUG c.s.s.u.RandomArray [main] Random array generated successfully!
+2020-12-13 18:45:13,230 DEBUG c.s.s.u.RandomArray [main] Generating random array of size: 100
+2020-12-13 18:45:13,230 DEBUG c.s.s.u.RandomArray [main] Random array generated successfully!
+2020-12-13 18:45:13,230 DEBUG c.s.s.u.RandomArray [main] Generating random array of size: 100
+2020-12-13 18:45:13,231 DEBUG c.s.s.u.RandomArray [main] Random array generated successfully!
+2020-12-13 18:45:13,231 TRACE c.s.s.s.BinarySort [main] BinarySort.class initialized.
+2020-12-13 18:45:25,016 TRACE c.s.s.u.Swap [main] Swap.class initialized.
+2020-12-13 18:45:25,033 TRACE c.s.s.f.SortFactory [main] SortFactory.class initialized.
+2020-12-13 18:45:25,044 TRACE c.s.s.s.SorterType [main] SorterType.class initialized.
+2020-12-13 18:45:25,046 TRACE c.s.s.s.BubbleSort [main] BubbleSort.class initialized.
+2020-12-13 18:45:25,046 TRACE c.s.s.s.MergeSort [main] MergeSort.class initialized.
+2020-12-13 18:45:25,046 TRACE c.s.s.s.HeapSort [main] HeapSort.class initialized.
+2020-12-13 18:45:25,046 TRACE c.s.s.b.BinaryTree [main] BinaryTree.class initialized.
+2020-12-13 18:45:25,047 TRACE c.s.s.b.Node [main] Node.class initialized.
+2020-12-13 18:45:25,047 TRACE c.s.s.s.ShellSort [main] ShellSort.class initialized.
+2020-12-13 18:45:25,047 TRACE c.s.s.s.QuickSort [main] QuickSort.class initialized.
+2020-12-13 18:45:25,047 TRACE c.s.s.s.InsertionSort [main] InsertionSort.class initialized.
+2020-12-13 18:45:25,050 TRACE c.s.s.u.RandomArray [main] RandomArray.class initialized.
+2020-12-13 18:45:25,050 DEBUG c.s.s.u.RandomArray [main] Generating random array of size: 100
+2020-12-13 18:45:25,050 DEBUG c.s.s.u.RandomArray [main] Random array generated successfully!
+2020-12-13 18:45:25,051 DEBUG c.s.s.u.RandomArray [main] Generating random array of size: 100
+2020-12-13 18:45:25,051 DEBUG c.s.s.u.RandomArray [main] Random array generated successfully!
+2020-12-13 18:45:25,051 DEBUG c.s.s.u.RandomArray [main] Generating random array of size: 100
+2020-12-13 18:45:25,051 DEBUG c.s.s.u.RandomArray [main] Random array generated successfully!
+2020-12-13 18:45:25,051 DEBUG c.s.s.u.RandomArray [main] Generating random array of size: 100
+2020-12-13 18:45:25,051 DEBUG c.s.s.u.RandomArray [main] Random array generated successfully!
+2020-12-13 18:45:25,054 DEBUG c.s.s.u.RandomArray [main] Generating random array of size: 100
+2020-12-13 18:45:25,054 DEBUG c.s.s.u.RandomArray [main] Random array generated successfully!
+2020-12-13 18:45:25,054 DEBUG c.s.s.u.RandomArray [main] Generating random array of size: 100
+2020-12-13 18:45:25,054 DEBUG c.s.s.u.RandomArray [main] Random array generated successfully!
+2020-12-13 18:45:25,054 DEBUG c.s.s.u.RandomArray [main] Generating random array of size: 100
+2020-12-13 18:45:25,054 DEBUG c.s.s.u.RandomArray [main] Random array generated successfully!
+2020-12-13 18:45:25,055 DEBUG c.s.s.u.RandomArray [main] Generating random array of size: 100
+2020-12-13 18:45:25,055 DEBUG c.s.s.u.RandomArray [main] Random array generated successfully!
+2020-12-13 18:45:25,055 TRACE c.s.s.s.BinarySort [main] BinarySort.class initialized.
+2020-12-13 18:47:01,318 TRACE c.s.s.u.Swap [main] Swap.class initialized.
+2020-12-13 18:47:01,337 TRACE c.s.s.f.SortFactory [main] SortFactory.class initialized.
+2020-12-13 18:47:01,348 TRACE c.s.s.s.SorterType [main] SorterType.class initialized.
+2020-12-13 18:47:01,350 TRACE c.s.s.s.BubbleSort [main] BubbleSort.class initialized.
+2020-12-13 18:47:01,350 TRACE c.s.s.s.MergeSort [main] MergeSort.class initialized.
+2020-12-13 18:47:01,350 TRACE c.s.s.s.HeapSort [main] HeapSort.class initialized.
+2020-12-13 18:47:01,350 TRACE c.s.s.b.BinaryTree [main] BinaryTree.class initialized.
+2020-12-13 18:47:01,351 TRACE c.s.s.b.Node [main] Node.class initialized.
+2020-12-13 18:47:01,352 TRACE c.s.s.s.ShellSort [main] ShellSort.class initialized.
+2020-12-13 18:47:01,352 TRACE c.s.s.s.QuickSort [main] QuickSort.class initialized.
+2020-12-13 18:47:01,352 TRACE c.s.s.s.InsertionSort [main] InsertionSort.class initialized.
+2020-12-13 18:47:01,354 TRACE c.s.s.u.RandomArray [main] RandomArray.class initialized.
+2020-12-13 18:47:01,355 DEBUG c.s.s.u.RandomArray [main] Generating random array of size: 100
+2020-12-13 18:47:01,355 DEBUG c.s.s.u.RandomArray [main] Random array generated successfully!
+2020-12-13 18:47:01,356 DEBUG c.s.s.u.RandomArray [main] Generating random array of size: 100
+2020-12-13 18:47:01,356 DEBUG c.s.s.u.RandomArray [main] Random array generated successfully!
+2020-12-13 18:47:01,356 DEBUG c.s.s.u.RandomArray [main] Generating random array of size: 100
+2020-12-13 18:47:01,356 DEBUG c.s.s.u.RandomArray [main] Random array generated successfully!
+2020-12-13 18:47:01,356 DEBUG c.s.s.u.RandomArray [main] Generating random array of size: 100
+2020-12-13 18:47:01,356 DEBUG c.s.s.u.RandomArray [main] Random array generated successfully!
+2020-12-13 18:47:01,359 DEBUG c.s.s.u.RandomArray [main] Generating random array of size: 100
+2020-12-13 18:47:01,359 DEBUG c.s.s.u.RandomArray [main] Random array generated successfully!
+2020-12-13 18:47:01,359 DEBUG c.s.s.u.RandomArray [main] Generating random array of size: 100
+2020-12-13 18:47:01,359 DEBUG c.s.s.u.RandomArray [main] Random array generated successfully!
+2020-12-13 18:47:01,359 DEBUG c.s.s.u.RandomArray [main] Generating random array of size: 100
+2020-12-13 18:47:01,359 DEBUG c.s.s.u.RandomArray [main] Random array generated successfully!
+2020-12-13 18:47:01,359 DEBUG c.s.s.u.RandomArray [main] Generating random array of size: 100
+2020-12-13 18:47:01,360 DEBUG c.s.s.u.RandomArray [main] Random array generated successfully!
+2020-12-13 18:47:01,360 TRACE c.s.s.s.BinarySort [main] BinarySort.class initialized.
+2020-12-13 18:47:02,485 TRACE c.s.s.App [main] App.class initialized.
+2020-12-13 18:47:02,490 TRACE c.s.s.u.CommandLineUI [main] CommandLineUI.class initialized.
+2020-12-13 18:47:02,490 TRACE c.s.s.u.CommandLineUI [main] CommandLine UI running
+2020-12-13 18:47:02,490 TRACE c.s.s.u.CommandLineUI [main] Display header
+2020-12-13 18:47:02,490 TRACE c.s.s.u.CommandLineUI [main] Show options
+2020-12-13 18:47:02,490 TRACE c.s.s.u.CommandLineUI [main] Asking for option (RANGE 0-8).
+2020-12-13 18:47:02,490 TRACE c.s.s.u.CommandLineUI [main] Waiting for input...
+2020-12-13 18:47:05,480 TRACE c.s.s.u.CommandLineUI [main] User input: 4
+2020-12-13 18:47:05,480 DEBUG c.s.s.u.CommandLineUI [main] User selected option 4
+2020-12-13 18:47:05,480 TRACE c.s.s.u.CommandLineUI [main] Asking for input on option selected: 4
+2020-12-13 18:47:05,480 TRACE c.s.s.u.CommandLineUI [main] Waiting for input...
+2020-12-13 18:47:27,902 TRACE c.s.s.u.CommandLineUI [main] User input: 45 23 30 23 46 60
+2020-12-13 18:47:27,903 TRACE c.s.s.f.SortFactory [main] SortFactory.class initialized.
+2020-12-13 18:47:27,909 TRACE c.s.s.s.SorterType [main] SorterType.class initialized.
+2020-12-13 18:47:27,909 TRACE c.s.s.b.BinaryTree [main] BinaryTree.class initialized.
+2020-12-13 18:47:27,910 TRACE c.s.s.b.Node [main] Node.class initialized.
+2020-12-13 18:47:27,911 DEBUG c.s.s.u.CommandLineUI [main] Sorting operation: class com.spartaglobal.samurah.binarytree.BinaryTree
+2020-12-13 18:47:27,911 TRACE c.s.s.u.CommandLineUI [main] Processing user input: 45 23 30 23 46 60
+2020-12-13 18:47:27,911 DEBUG c.s.s.u.CommandLineUI [main] Trying to format the array from the user input.
+2020-12-13 18:47:27,911 TRACE c.s.s.u.CommandLineUI [main] Formatting input...
+2020-12-13 18:47:27,911 DEBUG c.s.s.u.CommandLineUI [main] Successfully formatted the input. The result is an array of integer with the size: 6
+2020-12-13 18:47:27,914 TRACE c.s.s.u.CommandLineUI [main] Sorting operation in process.
+2020-12-13 18:47:27,915 TRACE c.s.s.u.CommandLineUI [main] Sorting operation: success
+2020-12-13 18:47:27,915 TRACE c.s.s.u.CommandLineUI [main] Printing initial array and sorted array for comparison.
+2020-12-13 18:47:27,915 TRACE c.s.s.u.CommandLineUI [main] Printing array with size 6
+2020-12-13 18:47:27,916 TRACE c.s.s.u.CommandLineUI [main] Printing: success
+2020-12-13 18:47:27,917 TRACE c.s.s.u.CommandLineUI [main] Printing array with size 6
+2020-12-13 18:47:27,917 TRACE c.s.s.u.CommandLineUI [main] Printing: success
+2020-12-13 18:47:27,918 TRACE c.s.s.u.CommandLineUI [main] User reached the end of the program. Trying again?
+2020-12-13 18:47:27,919 TRACE c.s.s.u.CommandLineUI [main] Waiting for input...
+2020-12-13 18:47:36,384 TRACE c.s.s.u.CommandLineUI [main] User input: y
+2020-12-13 18:47:36,384 TRACE c.s.s.u.CommandLineUI [main] Reloading. User selected to try again.
+2020-12-13 18:47:36,384 TRACE c.s.s.u.CommandLineUI [main] CommandLine UI running
+2020-12-13 18:47:36,385 TRACE c.s.s.u.CommandLineUI [main] Display header
+2020-12-13 18:47:36,385 TRACE c.s.s.u.CommandLineUI [main] Show options
+2020-12-13 18:47:36,385 TRACE c.s.s.u.CommandLineUI [main] Asking for option (RANGE 0-8).
+2020-12-13 18:47:36,385 TRACE c.s.s.u.CommandLineUI [main] Waiting for input...
+2020-12-13 18:47:44,534 TRACE c.s.s.u.CommandLineUI [main] User input: 04
+2020-12-13 18:47:44,534 DEBUG c.s.s.u.CommandLineUI [main] User selected option 4
+2020-12-13 18:47:44,534 TRACE c.s.s.u.CommandLineUI [main] Asking for input on option selected: 4
+2020-12-13 18:47:44,534 TRACE c.s.s.u.CommandLineUI [main] Waiting for input...
+2020-12-13 18:49:11,324 TRACE c.s.s.App [main] App.class initialized.
+2020-12-13 18:49:11,329 TRACE c.s.s.u.CommandLineUI [main] CommandLineUI.class initialized.
+2020-12-13 18:49:11,329 TRACE c.s.s.u.CommandLineUI [main] CommandLine UI running
+2020-12-13 18:49:11,329 TRACE c.s.s.u.CommandLineUI [main] Display header
+2020-12-13 18:49:11,329 TRACE c.s.s.u.CommandLineUI [main] Show options
+2020-12-13 18:49:11,330 TRACE c.s.s.u.CommandLineUI [main] Asking for option (RANGE 0-8).
+2020-12-13 18:49:11,330 TRACE c.s.s.u.CommandLineUI [main] Waiting for input...
+2020-12-13 18:49:16,432 TRACE c.s.s.u.CommandLineUI [main] User input: 4
+2020-12-13 18:49:16,432 DEBUG c.s.s.u.CommandLineUI [main] User selected option 4
+2020-12-13 18:49:16,433 TRACE c.s.s.u.CommandLineUI [main] Asking for input on option selected: 4
+2020-12-13 18:49:16,433 TRACE c.s.s.u.CommandLineUI [main] Waiting for input...
+2020-12-13 18:49:34,800 TRACE c.s.s.u.CommandLineUI [main] User input: 100 93 93 40 54 61 43 93 40
+2020-12-13 18:49:34,802 TRACE c.s.s.f.SortFactory [main] SortFactory.class initialized.
+2020-12-13 18:49:34,808 TRACE c.s.s.s.SorterType [main] SorterType.class initialized.
+2020-12-13 18:49:34,808 TRACE c.s.s.b.BinaryTree [main] BinaryTree.class initialized.
+2020-12-13 18:49:34,808 TRACE c.s.s.b.Node [main] Node.class initialized.
+2020-12-13 18:49:34,809 DEBUG c.s.s.u.CommandLineUI [main] Sorting operation: class com.spartaglobal.samurah.binarytree.BinaryTree
+2020-12-13 18:49:34,809 TRACE c.s.s.u.CommandLineUI [main] Processing user input: 100 93 93 40 54 61 43 93 40
+2020-12-13 18:49:34,809 DEBUG c.s.s.u.CommandLineUI [main] Trying to format the array from the user input.
+2020-12-13 18:49:34,809 TRACE c.s.s.u.CommandLineUI [main] Formatting input...
+2020-12-13 18:49:34,809 DEBUG c.s.s.u.CommandLineUI [main] Successfully formatted the input. The result is an array of integer with the size: 9
+2020-12-13 18:49:34,812 TRACE c.s.s.u.CommandLineUI [main] Sorting operation in process.
+2020-12-13 18:49:34,813 TRACE c.s.s.u.CommandLineUI [main] Sorting operation: success
+2020-12-13 18:49:34,813 TRACE c.s.s.u.CommandLineUI [main] Printing initial array and sorted array for comparison.
+2020-12-13 18:49:34,813 TRACE c.s.s.u.CommandLineUI [main] Printing array with size 9
+2020-12-13 18:49:34,815 TRACE c.s.s.u.CommandLineUI [main] Printing: success
+2020-12-13 18:49:34,815 TRACE c.s.s.u.CommandLineUI [main] Printing array with size 9
+2020-12-13 18:49:34,815 TRACE c.s.s.u.CommandLineUI [main] Printing: success
+2020-12-13 18:49:34,817 TRACE c.s.s.u.CommandLineUI [main] User reached the end of the program. Trying again?
+2020-12-13 18:49:34,817 TRACE c.s.s.u.CommandLineUI [main] Waiting for input...
+2020-12-13 18:49:47,992 TRACE c.s.s.u.CommandLineUI [main] User input: n
+2020-12-13 18:49:47,992 TRACE c.s.s.u.CommandLineUI [main] User selected to end.
+2020-12-13 18:49:47,992 DEBUG c.s.s.u.CommandLineUI [main] The program successfully finished running.

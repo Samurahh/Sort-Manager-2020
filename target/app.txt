@@ -1,0 +1,5 @@
+2020-12-11 17:10:03,978 TRACE c.s.s.CommandLineUI [main] CommandLine UI running
+2020-12-11 17:10:03,982 TRACE c.s.s.CommandLineUI [main] Display header
+2020-12-11 17:10:03,983 TRACE c.s.s.CommandLineUI [main] Show options
+2020-12-11 17:10:03,983 TRACE c.s.s.CommandLineUI [main] Asking for option (RANGE 1-8).
+2020-12-11 17:10:03,983 TRACE c.s.s.CommandLineUI [main] Waiting for input...
