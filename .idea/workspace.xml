@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="044bdadc-b351-49a6-aaec-65c9a455e310" name="Default Changelist" comment="Code refactoring." />
+    <list default="true" id="044bdadc-b351-49a6-aaec-65c9a455e310" name="Default Changelist" comment="Second commit.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/spartaglobal/samurah/sorters/SelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/spartaglobal/samurah/sorters/SorterType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spartaglobal/samurah/sorters/SorterType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/spartaglobal/samurah/userinterface/CommandLineUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spartaglobal/samurah/userinterface/CommandLineUI.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -180,7 +185,21 @@
       <option name="project" value="LOCAL" />
       <updated>1607888096805</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Second commit.">
+      <created>1607889453006</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1607889453006</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Second commit.">
+      <created>1607889524892</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1607889524892</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -198,6 +217,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
     <MESSAGE value="Code refactoring." />
-    <option name="LAST_COMMIT_MESSAGE" value="Code refactoring." />
+    <MESSAGE value="Second commit." />
+    <option name="LAST_COMMIT_MESSAGE" value="Second commit." />
   </component>
 </project>

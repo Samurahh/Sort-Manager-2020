@@ -16,7 +16,8 @@ public enum SorterType {
     SHELL_SORT(ShellSort::new, 5),
     QUICK_SORT(QuickSort::new, 6),
     INSERTION_SORT(InsertionSort::new, 7),
-    BINARY_SORT(BinarySort::new, 8);
+    BINARY_SORT(BinarySort::new, 8),
+    SELECTION_SORT(SelectionSort::new, 9);
 
     private static final Logger logger = LogManager.getLogger(SorterType.class);
 

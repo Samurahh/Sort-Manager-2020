@@ -104,6 +104,13 @@ public class AppTest {
                     }
                     break;
                 }
+                case 9:{
+                    if(!(SortFactory.getSorter(i) instanceof SelectionSort)){
+                        workingProperly = false;
+                        break sorter;
+                    }
+                    break;
+                }
             }
         }
         Assertions.assertTrue(workingProperly);

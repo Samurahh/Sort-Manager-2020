@@ -40,20 +40,20 @@ public class CommandLineUI {
         System.out.println("** - 3. Heap Sort - ****************** - 4. Binary Tree Sort - *******");
         System.out.println("** - 5. Shell Sort - ***************** - 6. QuickSort Sort - *********");
         System.out.println("** - 7. Insertion Sort - ************* - 8. Binary Sort - ************");
-        System.out.println("**********************************************************************");
+        System.out.println("********************* - 9. Selection Sorter **************************");
         System.out.println("********** - Please select your desired sorting algorithm - **********\n");
     }
 
     private void askForOption() {
-        logger.trace("Asking for option (RANGE 0-8).");
-        System.out.print("** Select option (0-8): ");
+        logger.trace("Asking for option (RANGE 0-9).");
+        System.out.print("** Select option (0-9): ");
         int option;
         try {
             option = Integer.parseInt(expectInput());
             if(printSelected(option)){
                 askForInput(option);
             }else{
-                logger.warn("Invalid numerical input! Range exceeded (1-8) - input = " + option);
+                logger.warn("Invalid numerical input! Range exceeded (0-9) - input = " + option);
                 askForOption();
             }
         } catch (Exception e) {
@@ -107,6 +107,11 @@ public class CommandLineUI {
             case 8: {
                 System.out.println("**********************************************************************");
                 System.out.println("******************** (8) Binary Sort *********************************\n");
+                break;
+            }
+            case 9: {
+                System.out.println("**********************************************************************");
+                System.out.println("******************** (9) Selection Sort ******************************\n");
                 break;
             }
             default: {
